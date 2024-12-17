@@ -1,1 +1,772 @@
-[{"id":"stop-sign","name":"Stop Sign","src":"https://assets.3dstreet.app/intersection-props/Stop Sign.glb","img":"https://assets.3dstreet.app/intersection-props/Stop Sign.jpg","category":"intersection-props"},{"id":"","name":"Signal Right","src":"https://assets.3dstreet.app/intersection-props/Signal Right.glb","img":"https://assets.3dstreet.app/intersection-props/Signal Right.jpg","category":"intersection-props"},{"id":"","name":"Signal Left","src":"https://assets.3dstreet.app/intersection-props/Signal Left.glb","img":"https://assets.3dstreet.app/intersection-props/Signal Left.jpg","category":"intersection-props"},{"id":"sedan","name":"Sedan","src":"https://assets.3dstreet.app/vehicles-rigged/Sedan.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Sedan.jpg","category":"vehicles-rigged"},{"id":"sedan-taxi","name":"Sedan Taxi","src":"https://assets.3dstreet.app/vehicles-rigged/Sedan Taxi.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Sedan Taxi.jpg","category":"vehicles-rigged"},{"id":"city-bus","name":"City Bus","src":"https://assets.3dstreet.app/vehicles-rigged/City Bus.glb","img":"https://assets.3dstreet.app/vehicles-rigged/City Bus.jpg","category":"vehicles-rigged"},{"id":"box-truck","name":"Box Truck","src":"https://assets.3dstreet.app/vehicles-rigged/Box Truck.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Box Truck.jpg","category":"vehicles-rigged"},{"id":"suv","name":"SUV","src":"https://assets.3dstreet.app/vehicles-rigged/SUV.glb","img":"https://assets.3dstreet.app/vehicles-rigged/SUV.jpg","category":"vehicles-rigged"},{"id":"food-trailer","name":"Food Trailer","src":"https://assets.3dstreet.app/vehicles-rigged/Food Trailer.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Food Trailer.jpg","category":"vehicles-rigged"},{"id":"bench_orientation_center","name":"Bench","src":"https://assets.3dstreet.app/sidewalk-props/Bench.glb","img":"https://assets.3dstreet.app/sidewalk-props/Bench.jpg","category":"sidewalk-props"},{"id":"outdoor_dining","name":"Outdoor Dining","src":"https://assets.3dstreet.app/sidewalk-props/Outdoor Dining.glb","img":"https://assets.3dstreet.app/sidewalk-props/Outdoor Dining.jpg","category":"sidewalk-props"},{"id":"utility_pole","name":"Utility Pole","src":"https://assets.3dstreet.app/sidewalk-props/Utility Pole.glb","img":"https://assets.3dstreet.app/sidewalk-props/Utility Pole.jpg","category":"sidewalk-props"},{"id":"bike_rack","name":"Bike Rack","src":"https://assets.3dstreet.app/sidewalk-props/Bike Rack.glb","img":"https://assets.3dstreet.app/sidewalk-props/Bike Rack.jpg","category":"sidewalk-props"},{"id":"bike_share","name":"Bike Share","src":"https://assets.3dstreet.app/sidewalk-props/Bike Share.glb","img":"https://assets.3dstreet.app/sidewalk-props/Bike Share.jpg","category":"sidewalk-props"},{"id":"lamp_post_traditional","name":"Lamp Post","src":"https://assets.3dstreet.app/sidewalk-props/Lamp Post.glb","img":"https://assets.3dstreet.app/sidewalk-props/Lamp Post.jpg","category":"sidewalk-props"},{"id":"palmtree","name":"Palm Tree","src":"https://assets.3dstreet.app/sidewalk-props/Palm Tree.glb","img":"https://assets.3dstreet.app/sidewalk-props/Palm Tree.jpg","category":"sidewalk-props"},{"id":"park_bench","name":"Park Bench","src":"https://assets.3dstreet.app/sidewalk-props/Park Bench.glb","img":"https://assets.3dstreet.app/sidewalk-props/Park Bench.jpg","category":"sidewalk-props"},{"id":"sea_wall","name":"Sea Wall","src":"https://assets.3dstreet.app/sidewalk-props/Sea Wall.glb","img":"https://assets.3dstreet.app/sidewalk-props/Sea Wall.jpg","category":"sidewalk-props"},{"id":"track","name":"Track","src":"https://assets.3dstreet.app/sidewalk-props/Track.glb","img":"https://assets.3dstreet.app/sidewalk-props/Track.jpg","category":"sidewalk-props"},{"id":"tree-01","name":"Tree","src":"https://assets.3dstreet.app/sidewalk-props/Tree.glb","img":"https://assets.3dstreet.app/sidewalk-props/Tree.jpg","category":"sidewalk-props"},{"id":"street-light","name":"Street Light","src":"https://assets.3dstreet.app/sidewalk-props/Street Light.glb","img":"https://assets.3dstreet.app/sidewalk-props/Street Light.jpg","category":"sidewalk-props"},{"id":"street-light-double","name":"Street Light Double","src":"https://assets.3dstreet.app/sidewalk-props/Street Light Double.glb","img":"https://assets.3dstreet.app/sidewalk-props/Street Light Double.jpg","category":"sidewalk-props"},{"id":"transit-shelter-1","name":"Transit Shelter","src":"https://assets.3dstreet.app/sidewalk-props/Transit Shelter.glb","img":"https://assets.3dstreet.app/sidewalk-props/Transit Shelter.jpg","category":"sidewalk-props"},{"id":"ElectricScooter_1","name":"Electric Scooter","src":"https://assets.3dstreet.app/cyclists/Electric Scooter.glb","img":"https://assets.3dstreet.app/cyclists/Electric Scooter.jpg","category":"cyclists"},{"id":"Bicycle_1","name":"Cyclist","src":"https://assets.3dstreet.app/cyclists/Cyclist.glb","img":"https://assets.3dstreet.app/cyclists/Cyclist.jpg","category":"cyclists"},{"id":"magic-carpet","name":"Magic Carpet","src":"https://assets.3dstreet.app/vehicles/Magic Carpet.glb","img":"https://assets.3dstreet.app/vehicles/Magic Carpet.jpg","category":"vehicles"},{"id":"node-0","name":"Lamp Post 2","src":"https://assets.3dstreet.app/sidewalk-props/Lamp Post 2.glb","img":"https://assets.3dstreet.app/sidewalk-props/Lamp Post 2.jpg","category":"sidewalk-props"},{"id":"flowers","name":"Flowers","src":"https://assets.3dstreet.app/dividers/Flowers.glb","img":"https://assets.3dstreet.app/dividers/Flowers.jpg","category":"dividers"},{"id":"planting-strip","name":"Planting Strip","src":"https://assets.3dstreet.app/dividers/Planting Strip.glb","img":"https://assets.3dstreet.app/dividers/Planting Strip.jpg","category":"dividers"},{"id":"bush","name":"Bush","src":"https://assets.3dstreet.app/dividers/Bush.glb","img":"https://assets.3dstreet.app/dividers/Bush.jpg","category":"dividers"},{"id":"planter-box","name":"Planter Box","src":"https://assets.3dstreet.app/dividers/Planter Box.glb","img":"https://assets.3dstreet.app/dividers/Planter Box.jpg","category":"dividers"},{"id":"bollard","name":"Safehit","src":"https://assets.3dstreet.app/dividers/Safehit.glb","img":"https://assets.3dstreet.app/dividers/Safehit.jpg","category":"dividers"},{"id":"dome","name":"Dome","src":"https://assets.3dstreet.app/dividers/Dome.glb","img":"https://assets.3dstreet.app/dividers/Dome.jpg","category":"dividers"},{"id":"barricade","name":"Barricade","src":"https://assets.3dstreet.app/dividers/Barricade.glb","img":"https://assets.3dstreet.app/dividers/Barricade.jpg","category":"dividers"},{"id":"traffic-cone","name":"Traffic Cone","src":"https://assets.3dstreet.app/dividers/Traffic Cone.glb","img":"https://assets.3dstreet.app/dividers/Traffic Cone.jpg","category":"dividers"},{"id":"jersey-barrier-concrete","name":"Barrier Concrete","src":"https://assets.3dstreet.app/dividers/Barrier Concrete.glb","img":"https://assets.3dstreet.app/dividers/Barrier Concrete.jpg","category":"dividers"},{"id":"jersey-barrier-plastic","name":"Barrier Plastic","src":"https://assets.3dstreet.app/dividers/Barrier Plastic.glb","img":"https://assets.3dstreet.app/dividers/Barrier Plastic.jpg","category":"dividers"},{"id":"flyer-bus","name":"Flyer Bus","src":"https://assets.3dstreet.app/vehicles-rigged/Flyer Bus.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Flyer Bus.jpg","category":"vehicles-rigged"},{"id":"Character_9","name":"Character 9","src":"https://assets.3dstreet.app/people/Character 9.glb","img":"https://assets.3dstreet.app/people/Character 9.jpg","category":"people"},{"id":"Character_10","name":"Character 10","src":"https://assets.3dstreet.app/people/Character 10.glb","img":"https://assets.3dstreet.app/people/Character 10.jpg","category":"people"},{"id":"Character_11","name":"Character 11","src":"https://assets.3dstreet.app/people/Character 11.glb","img":"https://assets.3dstreet.app/people/Character 11.jpg","category":"people"},{"id":"Character_12","name":"Character 12","src":"https://assets.3dstreet.app/people/Character 12.glb","img":"https://assets.3dstreet.app/people/Character 12.jpg","category":"people"},{"id":"Character_13","name":"Character 13","src":"https://assets.3dstreet.app/people/Character 13.glb","img":"https://assets.3dstreet.app/people/Character 13.jpg","category":"people"},{"id":"Character_14","name":"Character 14","src":"https://assets.3dstreet.app/people/Character 14.glb","img":"https://assets.3dstreet.app/people/Character 14.jpg","category":"people"},{"id":"Character_15","name":"Character 15","src":"https://assets.3dstreet.app/people/Character 15.glb","img":"https://assets.3dstreet.app/people/Character 15.jpg","category":"people"},{"id":"Character_16","name":"Character 16","src":"https://assets.3dstreet.app/people/Character 16.glb","img":"https://assets.3dstreet.app/people/Character 16.jpg","category":"people"},{"id":"Character_1","name":"Character 1","src":"https://assets.3dstreet.app/people/Character 1.glb","img":"https://assets.3dstreet.app/people/Character 1.jpg","category":"people"},{"id":"Character_2","name":"Character 2","src":"https://assets.3dstreet.app/people/Character 2.glb","img":"https://assets.3dstreet.app/people/Character 2.jpg","category":"people"},{"id":"Character_3","name":"Character 3","src":"https://assets.3dstreet.app/people/Character 3.glb","img":"https://assets.3dstreet.app/people/Character 3.jpg","category":"people"},{"id":"Character_4","name":"Character 4","src":"https://assets.3dstreet.app/people/Character 4.glb","img":"https://assets.3dstreet.app/people/Character 4.jpg","category":"people"},{"id":"Character_5","name":"Character 5","src":"https://assets.3dstreet.app/people/Character 5.glb","img":"https://assets.3dstreet.app/people/Character 5.jpg","category":"people"},{"id":"Character_6","name":"Character 6","src":"https://assets.3dstreet.app/people/Character 6.glb","img":"https://assets.3dstreet.app/people/Character 6.jpg","category":"people"},{"id":"Character_7","name":"Character 7","src":"https://assets.3dstreet.app/people/Character 7.glb","img":"https://assets.3dstreet.app/people/Character 7.jpg","category":"people"},{"id":"Character_8","name":"Character 8","src":"https://assets.3dstreet.app/people/Character 8.glb","img":"https://assets.3dstreet.app/people/Character 8.jpg","category":"people"},{"id":"suburban-house_1","name":"Suburban House","src":"https://assets.3dstreet.app/buildings/Suburban House.glb","img":"https://assets.3dstreet.app/buildings/Suburban House.jpg","category":"buildings"},{"id":"suburban-house_2","name":"Suburban House 2","src":"https://assets.3dstreet.app/buildings/Suburban House 2.glb","img":"https://assets.3dstreet.app/buildings/Suburban House 2.jpg","category":"buildings"},{"id":"suburban-house_3","name":"Suburban House 3","src":"https://assets.3dstreet.app/buildings/Suburban House 3.glb","img":"https://assets.3dstreet.app/buildings/Suburban House 3.jpg","category":"buildings"},{"id":"Armature","name":"BMW","src":"https://assets.3dstreet.app/vehicles-rigged/BMW.glb","img":"https://assets.3dstreet.app/vehicles-rigged/BMW.jpg","category":"vehicles-rigged"},{"id":"Plane","name":"WFH Banner","src":"https://assets.3dstreet.app/loud-bicycle/WFH Banner.glb","img":"https://assets.3dstreet.app/loud-bicycle/WFH Banner.jpg","category":"loud-bicycle"},{"id":"Armature","name":"Sedan","src":"https://assets.3dstreet.app/vehicles-rigged/Sedan.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Sedan.jpg","category":"vehicles-rigged"},{"id":"Armature","name":"Self-Driving Cruise Car","src":"https://assets.3dstreet.app/vehicles-rigged/Self-Driving Cruise Car.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Self-Driving Cruise Car.jpg","category":"vehicles-rigged"},{"id":"Armature","name":"Isuzu Truck","src":"https://assets.3dstreet.app/vehicles-rigged/Isuzu Truck.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Isuzu Truck.jpg","category":"vehicles-rigged"},{"id":"food-trailer_rig","name":"food-trailer-rig-food-trailer_rig","src":"https://assets.3dstreet.app/default/food-trailer-rig-food-trailer_rig.glb","img":"https://assets.3dstreet.app/default/food-trailer-rig-food-trailer_rig.jpg","category":"default"},{"id":"Armature","name":"Fire Truck","src":"https://assets.3dstreet.app/vehicles-rigged/Fire Truck.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Fire Truck.jpg","category":"vehicles-rigged"},{"id":"transit-shelter-2","name":"Transit Shelter 2","src":"https://assets.3dstreet.app/sidewalk-props/Transit Shelter 2.glb","img":"https://assets.3dstreet.app/sidewalk-props/Transit Shelter 2.jpg","category":"sidewalk-props"},{"id":"traffic-post-k71","name":"Traffic Post","src":"https://assets.3dstreet.app/dividers/Traffic Post.glb","img":"https://assets.3dstreet.app/dividers/Traffic Post.jpg","category":"dividers"},{"id":"traffic-calming-bumps","name":"Calming Bumps","src":"https://assets.3dstreet.app/dividers/Calming Bumps.glb","img":"https://assets.3dstreet.app/dividers/Calming Bumps.jpg","category":"dividers"},{"id":"speed-hump","name":"Speed Hump","src":"https://assets.3dstreet.app/dividers/Speed Hump.glb","img":"https://assets.3dstreet.app/dividers/Speed Hump.jpg","category":"dividers"},{"id":"sign-warning-ped-rrfb","name":"Ped Warning","src":"https://assets.3dstreet.app/intersection-props/Ped Warning.glb","img":"https://assets.3dstreet.app/intersection-props/Ped Warning.jpg","category":"intersection-props"},{"id":"residential-mailbox","name":"Mailbox","src":"https://assets.3dstreet.app/sidewalk-props/Mailbox.glb","img":"https://assets.3dstreet.app/sidewalk-props/Mailbox.jpg","category":"sidewalk-props"},{"id":"rapid-flashing-beacon","name":"Ped Beacon","src":"https://assets.3dstreet.app/intersection-props/Ped Beacon.glb","img":"https://assets.3dstreet.app/intersection-props/Ped Beacon.jpg","category":"intersection-props"},{"id":"picnic-bench","name":"Picnic Bench","src":"https://assets.3dstreet.app/sidewalk-props/Picnic Bench.glb","img":"https://assets.3dstreet.app/sidewalk-props/Picnic Bench.jpg","category":"sidewalk-props"},{"id":"lending-library","name":"Lending Library","src":"https://assets.3dstreet.app/sidewalk-props/Lending Library.glb","img":"https://assets.3dstreet.app/sidewalk-props/Lending Library.jpg","category":"sidewalk-props"},{"id":"large-parklet-seating","name":"Large Parklet Seating","src":"https://assets.3dstreet.app/sidewalk-props/Large Parklet Seating.glb","img":"https://assets.3dstreet.app/sidewalk-props/Large Parklet Seating.jpg","category":"sidewalk-props"},{"id":"curb-traffic-island","name":"Traffic Island","src":"https://assets.3dstreet.app/dividers/Traffic Island.glb","img":"https://assets.3dstreet.app/dividers/Traffic Island.jpg","category":"dividers"},{"id":"curb-island-end-rounded","name":"Traffic Island Rounded End","src":"https://assets.3dstreet.app/dividers/Traffic Island Rounded End.glb","img":"https://assets.3dstreet.app/dividers/Traffic Island Rounded End.jpg","category":"dividers"},{"id":"curb-extension-with-crosswalk","name":"Bikes Only Curb Extension","src":"https://assets.3dstreet.app/dividers/Bikes Only Curb Extension.glb","img":"https://assets.3dstreet.app/dividers/Bikes Only Curb Extension.jpg","category":"dividers"},{"id":"crosswalk-raised","name":"Raised Crosswalk","src":"https://assets.3dstreet.app/dividers/Raised Crosswalk.glb","img":"https://assets.3dstreet.app/dividers/Raised Crosswalk.jpg","category":"dividers"},{"id":"corner-island","name":"Corner Island","src":"https://assets.3dstreet.app/dividers/Corner Island.glb","img":"https://assets.3dstreet.app/dividers/Corner Island.jpg","category":"dividers"},{"id":"bin","name":"Trash Bin","src":"https://assets.3dstreet.app/sidewalk-props/Trash Bin.glb","img":"https://assets.3dstreet.app/sidewalk-props/Trash Bin.jpg","category":"sidewalk-props"},{"id":"USPS-mailbox","name":"USPS Mailbox","src":"https://assets.3dstreet.app/sidewalk-props/USPS Mailbox.glb","img":"https://assets.3dstreet.app/sidewalk-props/USPS Mailbox.jpg","category":"sidewalk-props"},{"id":"19th-Street-Bridge","name":"Bridge","src":"https://assets.3dstreet.app/sidewalk-props/Bridge.glb","img":"https://assets.3dstreet.app/sidewalk-props/Bridge.jpg","category":"sidewalk-props"},{"id":"Armature","name":"Self-Driving Waymo Car","src":"https://assets.3dstreet.app/vehicles-rigged/Self-Driving Waymo Car.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Self-Driving Waymo Car.jpg","category":"vehicles-rigged"},{"id":"two-wheeler-with-person","name":"Motorbike","src":"https://assets.3dstreet.app/vehicles-rigged/Motorbike.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Motorbike.jpg","category":"vehicles-rigged"},{"id":"tuk-tuk","name":"Tuk-Tuk","src":"https://assets.3dstreet.app/vehicles-rigged/Tuk-Tuk.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Tuk-Tuk.jpg","category":"vehicles-rigged"},{"id":"trash-truck-side-loading","name":"Trash Truck","src":"https://assets.3dstreet.app/vehicles-rigged/Trash Truck.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Trash Truck.jpg","category":"vehicles-rigged"},{"id":"mini-bus","name":"Mini Bus","src":"https://assets.3dstreet.app/vehicles-rigged/Mini Bus.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Mini Bus.jpg","category":"vehicles-rigged"},{"id":"Armature","name":"Fire Truck Ladder","src":"https://assets.3dstreet.app/vehicles-rigged/Fire Truck Ladder.glb","img":"https://assets.3dstreet.app/vehicles-rigged/Fire Truck Ladder.jpg","category":"vehicles-rigged"},{"id":"Cube","name":"Wayfinding Cube","src":"https://assets.3dstreet.app/sidewalk-props/Wayfinding Cube.glb","img":"https://assets.3dstreet.app/sidewalk-props/Wayfinding Cube.jpg","category":"sidewalk-props"},{"id":"parklet","name":"Parklet","src":"https://assets.3dstreet.app/sidewalk-props/Parklet.glb","img":"https://assets.3dstreet.app/sidewalk-props/Parklet.jpg","category":"sidewalk-props"},{"id":"building_03005","name":"School","src":"https://assets.3dstreet.app/loud-bicycle/School.glb","img":"https://assets.3dstreet.app/loud-bicycle/School.jpg","category":"loud-bicycle"},{"id":"Circle","name":"Ray Gun","src":"https://assets.3dstreet.app/loud-bicycle/Ray Gun.glb","img":"https://assets.3dstreet.app/loud-bicycle/Ray Gun.jpg","category":"loud-bicycle"},{"id":"sanfrancisco-cablecar-rig","name":"Cable Car","src":"https://assets.3dstreet.app/vehicles-transit/Cable Car.glb","img":"https://assets.3dstreet.app/vehicles-transit/Cable Car.jpg","category":"vehicles-transit"},{"id":"irish-bar-building","name":"Irish Bar","src":"https://assets.3dstreet.app/loud-bicycle/Irish Bar.glb","img":"https://assets.3dstreet.app/loud-bicycle/Irish Bar.jpg","category":"loud-bicycle"},{"id":"Armature","name":"Light Rail","src":"https://assets.3dstreet.app/vehicles-transit/Light Rail.glb","img":"https://assets.3dstreet.app/vehicles-transit/Light Rail.jpg","category":"vehicles-transit"},{"id":"Armature","name":"New Flyer Bus","src":"https://assets.3dstreet.app/vehicles-rigged/New Flyer Bus.glb","img":"https://assets.3dstreet.app/vehicles-rigged/New Flyer Bus.jpg","category":"vehicles-rigged"},{"id":"bollard","name":"Bollard","src":"https://assets.3dstreet.app/dividers/Bollard.glb","img":"https://assets.3dstreet.app/dividers/Bollard.jpg","category":"dividers"},{"id":"c02-scrubber","name":"CO2 Scrubber","src":"https://assets.3dstreet.app/loud-bicycle/CO2 Scrubber.glb","img":"https://assets.3dstreet.app/loud-bicycle/CO2 Scrubber.jpg","category":"loud-bicycle"},{"id":"FenceMesh","name":"Fence","src":"https://assets.3dstreet.app/grounds/Fence.glb","img":"https://assets.3dstreet.app/grounds/Fence.jpg","category":"grounds"},{"id":"bus-shelter-alt-1","name":"Bus Shelter","src":"https://assets.3dstreet.app/sidewalk-props/Bus Shelter.glb","img":"https://assets.3dstreet.app/sidewalk-props/Bus Shelter.jpg","category":"sidewalk-props"},{"id":"brt-stationglb","name":"BRT Station","src":"https://assets.3dstreet.app/sidewalk-props/BRT Station.glb","img":"https://assets.3dstreet.app/sidewalk-props/BRT Station.jpg","category":"sidewalk-props"},{"id":"arched-building-02","name":"Arched Building 2","src":"https://assets.3dstreet.app/buildings/Arched Building 2.glb","img":"https://assets.3dstreet.app/buildings/Arched Building 2.jpg","category":"buildings"},{"id":"arched-building-03","name":"Arched Building 3","src":"https://assets.3dstreet.app/buildings/Arched Building 3.glb","img":"https://assets.3dstreet.app/buildings/Arched Building 3.jpg","category":"buildings"},{"id":"arched-building-01","name":"Arched Building","src":"https://assets.3dstreet.app/buildings/Arched Building.glb","img":"https://assets.3dstreet.app/buildings/Arched Building.jpg","category":"buildings"},{"id":"arched-building-04","name":"Arched Building 4","src":"https://assets.3dstreet.app/buildings/Arched Building 4.glb","img":"https://assets.3dstreet.app/buildings/Arched Building 4.jpg","category":"buildings"},{"id":"SM3D_Bld_Mixed_4fl","name":"Mixed 4fl","src":"https://assets.3dstreet.app/buildings/Mixed 4fl.glb","img":"https://assets.3dstreet.app/buildings/Mixed 4fl.jpg","category":"buildings"},{"id":"SM3D_Bld_Mixed_5fl","name":"Mixed 5fl","src":"https://assets.3dstreet.app/buildings/Mixed 5fl.glb","img":"https://assets.3dstreet.app/buildings/Mixed 5fl.jpg","category":"buildings"},{"id":"SM3D_Bld_Mixed_Double_5fl","name":"Mixed Double 5fl","src":"https://assets.3dstreet.app/buildings/Mixed Double 5fl.glb","img":"https://assets.3dstreet.app/buildings/Mixed Double 5fl.jpg","category":"buildings"},{"id":"SM3D_Bld_Mixed_4fl_2","name":"Mixed 4fl 2","src":"https://assets.3dstreet.app/buildings/Mixed 4fl 2.glb","img":"https://assets.3dstreet.app/buildings/Mixed 4fl 2.jpg","category":"buildings"},{"id":"SM3D_Bld_Mixed_Corner_4fl","name":"Mixed Corner 4fl","src":"https://assets.3dstreet.app/buildings/Mixed Corner 4fl.glb","img":"https://assets.3dstreet.app/buildings/Mixed Corner 4fl.jpg","category":"buildings"}]
+[
+  {
+    "id": "stop-sign",
+    "name": "Stop Sign",
+    "src": "https://assets.3dstreet.app/intersection-props/Stop Sign.glb",
+    "img": "https://assets.3dstreet.app/intersection-props/Stop Sign.jpg",
+    "category": "intersection-props"
+  },
+  {
+    "id": "",
+    "name": "Signal Right",
+    "src": "https://assets.3dstreet.app/intersection-props/Signal Right.glb",
+    "img": "https://assets.3dstreet.app/intersection-props/Signal Right.jpg",
+    "category": "intersection-props"
+  },
+  {
+    "id": "",
+    "name": "Signal Left",
+    "src": "https://assets.3dstreet.app/intersection-props/Signal Left.glb",
+    "img": "https://assets.3dstreet.app/intersection-props/Signal Left.jpg",
+    "category": "intersection-props"
+  },
+  {
+    "id": "sedan",
+    "name": "Sedan",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Sedan.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Sedan.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "sedan-taxi",
+    "name": "Sedan Taxi",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Sedan Taxi.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Sedan Taxi.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "city-bus",
+    "name": "City Bus",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/City Bus.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/City Bus.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "box-truck",
+    "name": "Box Truck",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Box Truck.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Box Truck.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "suv",
+    "name": "SUV",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/SUV.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/SUV.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "food-trailer",
+    "name": "Food Trailer",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Food Trailer.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Food Trailer.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "bench_orientation_center",
+    "name": "Bench",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Bench.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Bench.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "outdoor_dining",
+    "name": "Outdoor Dining",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Outdoor Dining.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Outdoor Dining.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "utility_pole",
+    "name": "Utility Pole",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Utility Pole.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Utility Pole.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "bike_rack",
+    "name": "Bike Rack",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Bike Rack.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Bike Rack.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "bike_share",
+    "name": "Bike Share",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Bike Share.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Bike Share.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "lamp_post_traditional",
+    "name": "Lamp Post",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Lamp Post.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Lamp Post.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "palmtree",
+    "name": "Palm Tree",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Palm Tree.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Palm Tree.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "park_bench",
+    "name": "Park Bench",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Park Bench.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Park Bench.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "sea_wall",
+    "name": "Sea Wall",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Sea Wall.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Sea Wall.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "track",
+    "name": "Track",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Track.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Track.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "tree-01",
+    "name": "Tree",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Tree.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Tree.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "street-light",
+    "name": "Street Light",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Street Light.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Street Light.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "street-light-double",
+    "name": "Street Light Double",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Street Light Double.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Street Light Double.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "transit-shelter-1",
+    "name": "Transit Shelter",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Transit Shelter.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Transit Shelter.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "ElectricScooter_1",
+    "name": "Electric Scooter",
+    "src": "https://assets.3dstreet.app/cyclists/Electric Scooter.glb",
+    "img": "https://assets.3dstreet.app/cyclists/Electric Scooter.jpg",
+    "category": "cyclists"
+  },
+  {
+    "id": "Bicycle_1",
+    "name": "Cyclist",
+    "src": "https://assets.3dstreet.app/cyclists/Cyclist.glb",
+    "img": "https://assets.3dstreet.app/cyclists/Cyclist.jpg",
+    "category": "cyclists"
+  },
+  {
+    "id": "magic-carpet",
+    "name": "Magic Carpet",
+    "src": "https://assets.3dstreet.app/vehicles/Magic Carpet.glb",
+    "img": "https://assets.3dstreet.app/vehicles/Magic Carpet.jpg",
+    "category": "vehicles"
+  },
+  {
+    "id": "node-0",
+    "name": "Lamp Post 2",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Lamp Post 2.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Lamp Post 2.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "flowers",
+    "name": "Flowers",
+    "src": "https://assets.3dstreet.app/dividers/Flowers.glb",
+    "img": "https://assets.3dstreet.app/dividers/Flowers.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "planting-strip",
+    "name": "Planting Strip",
+    "src": "https://assets.3dstreet.app/dividers/Planting Strip.glb",
+    "img": "https://assets.3dstreet.app/dividers/Planting Strip.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "bush",
+    "name": "Bush",
+    "src": "https://assets.3dstreet.app/dividers/Bush.glb",
+    "img": "https://assets.3dstreet.app/dividers/Bush.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "planter-box",
+    "name": "Planter Box",
+    "src": "https://assets.3dstreet.app/dividers/Planter Box.glb",
+    "img": "https://assets.3dstreet.app/dividers/Planter Box.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "bollard",
+    "name": "Safehit",
+    "src": "https://assets.3dstreet.app/dividers/Safehit.glb",
+    "img": "https://assets.3dstreet.app/dividers/Safehit.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "dome",
+    "name": "Dome",
+    "src": "https://assets.3dstreet.app/dividers/Dome.glb",
+    "img": "https://assets.3dstreet.app/dividers/Dome.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "barricade",
+    "name": "Barricade",
+    "src": "https://assets.3dstreet.app/dividers/Barricade.glb",
+    "img": "https://assets.3dstreet.app/dividers/Barricade.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "traffic-cone",
+    "name": "Traffic Cone",
+    "src": "https://assets.3dstreet.app/dividers/Traffic Cone.glb",
+    "img": "https://assets.3dstreet.app/dividers/Traffic Cone.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "jersey-barrier-concrete",
+    "name": "Barrier Concrete",
+    "src": "https://assets.3dstreet.app/dividers/Barrier Concrete.glb",
+    "img": "https://assets.3dstreet.app/dividers/Barrier Concrete.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "jersey-barrier-plastic",
+    "name": "Barrier Plastic",
+    "src": "https://assets.3dstreet.app/dividers/Barrier Plastic.glb",
+    "img": "https://assets.3dstreet.app/dividers/Barrier Plastic.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "flyer-bus",
+    "name": "Flyer Bus",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Flyer Bus.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Flyer Bus.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "Character_9",
+    "name": "Character 9",
+    "src": "https://assets.3dstreet.app/people/Character 9.glb",
+    "img": "https://assets.3dstreet.app/people/Character 9.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_10",
+    "name": "Character 10",
+    "src": "https://assets.3dstreet.app/people/Character 10.glb",
+    "img": "https://assets.3dstreet.app/people/Character 10.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_11",
+    "name": "Character 11",
+    "src": "https://assets.3dstreet.app/people/Character 11.glb",
+    "img": "https://assets.3dstreet.app/people/Character 11.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_12",
+    "name": "Character 12",
+    "src": "https://assets.3dstreet.app/people/Character 12.glb",
+    "img": "https://assets.3dstreet.app/people/Character 12.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_13",
+    "name": "Character 13",
+    "src": "https://assets.3dstreet.app/people/Character 13.glb",
+    "img": "https://assets.3dstreet.app/people/Character 13.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_14",
+    "name": "Character 14",
+    "src": "https://assets.3dstreet.app/people/Character 14.glb",
+    "img": "https://assets.3dstreet.app/people/Character 14.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_15",
+    "name": "Character 15",
+    "src": "https://assets.3dstreet.app/people/Character 15.glb",
+    "img": "https://assets.3dstreet.app/people/Character 15.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_16",
+    "name": "Character 16",
+    "src": "https://assets.3dstreet.app/people/Character 16.glb",
+    "img": "https://assets.3dstreet.app/people/Character 16.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_1",
+    "name": "Character 1",
+    "src": "https://assets.3dstreet.app/people/Character 1.glb",
+    "img": "https://assets.3dstreet.app/people/Character 1.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_2",
+    "name": "Character 2",
+    "src": "https://assets.3dstreet.app/people/Character 2.glb",
+    "img": "https://assets.3dstreet.app/people/Character 2.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_3",
+    "name": "Character 3",
+    "src": "https://assets.3dstreet.app/people/Character 3.glb",
+    "img": "https://assets.3dstreet.app/people/Character 3.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_4",
+    "name": "Character 4",
+    "src": "https://assets.3dstreet.app/people/Character 4.glb",
+    "img": "https://assets.3dstreet.app/people/Character 4.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_5",
+    "name": "Character 5",
+    "src": "https://assets.3dstreet.app/people/Character 5.glb",
+    "img": "https://assets.3dstreet.app/people/Character 5.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_6",
+    "name": "Character 6",
+    "src": "https://assets.3dstreet.app/people/Character 6.glb",
+    "img": "https://assets.3dstreet.app/people/Character 6.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_7",
+    "name": "Character 7",
+    "src": "https://assets.3dstreet.app/people/Character 7.glb",
+    "img": "https://assets.3dstreet.app/people/Character 7.jpg",
+    "category": "people"
+  },
+  {
+    "id": "Character_8",
+    "name": "Character 8",
+    "src": "https://assets.3dstreet.app/people/Character 8.glb",
+    "img": "https://assets.3dstreet.app/people/Character 8.jpg",
+    "category": "people"
+  },
+  {
+    "id": "suburban-house_1",
+    "name": "Suburban House",
+    "src": "https://assets.3dstreet.app/buildings/Suburban House.glb",
+    "img": "https://assets.3dstreet.app/buildings/Suburban House.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "suburban-house_2",
+    "name": "Suburban House 2",
+    "src": "https://assets.3dstreet.app/buildings/Suburban House 2.glb",
+    "img": "https://assets.3dstreet.app/buildings/Suburban House 2.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "suburban-house_3",
+    "name": "Suburban House 3",
+    "src": "https://assets.3dstreet.app/buildings/Suburban House 3.glb",
+    "img": "https://assets.3dstreet.app/buildings/Suburban House 3.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "Armature",
+    "name": "BMW",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/BMW.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/BMW.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "Plane",
+    "name": "WFH Banner",
+    "src": "https://assets.3dstreet.app/loud-bicycle/WFH Banner.glb",
+    "img": "https://assets.3dstreet.app/loud-bicycle/WFH Banner.jpg",
+    "category": "loud-bicycle"
+  },
+  {
+    "id": "Armature",
+    "name": "Sedan",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Sedan.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Sedan.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "Armature",
+    "name": "Self-Driving Cruise Car",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Self-Driving Cruise Car.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Self-Driving Cruise Car.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "Armature",
+    "name": "Isuzu Truck",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Isuzu Truck.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Isuzu Truck.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "food-trailer_rig",
+    "name": "food-trailer-rig-food-trailer_rig",
+    "src": "https://assets.3dstreet.app/default/food-trailer-rig-food-trailer_rig.glb",
+    "img": "https://assets.3dstreet.app/default/food-trailer-rig-food-trailer_rig.jpg",
+    "category": "default"
+  },
+  {
+    "id": "Armature",
+    "name": "Fire Truck",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Fire Truck.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Fire Truck.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "transit-shelter-2",
+    "name": "Transit Shelter 2",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Transit Shelter 2.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Transit Shelter 2.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "traffic-post-k71",
+    "name": "Traffic Post",
+    "src": "https://assets.3dstreet.app/dividers/Traffic Post.glb",
+    "img": "https://assets.3dstreet.app/dividers/Traffic Post.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "traffic-calming-bumps",
+    "name": "Calming Bumps",
+    "src": "https://assets.3dstreet.app/dividers/Calming Bumps.glb",
+    "img": "https://assets.3dstreet.app/dividers/Calming Bumps.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "speed-hump",
+    "name": "Speed Hump",
+    "src": "https://assets.3dstreet.app/dividers/Speed Hump.glb",
+    "img": "https://assets.3dstreet.app/dividers/Speed Hump.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "sign-warning-ped-rrfb",
+    "name": "Ped Warning",
+    "src": "https://assets.3dstreet.app/intersection-props/Ped Warning.glb",
+    "img": "https://assets.3dstreet.app/intersection-props/Ped Warning.jpg",
+    "category": "intersection-props"
+  },
+  {
+    "id": "residential-mailbox",
+    "name": "Mailbox",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Mailbox.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Mailbox.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "rapid-flashing-beacon",
+    "name": "Ped Beacon",
+    "src": "https://assets.3dstreet.app/intersection-props/Ped Beacon.glb",
+    "img": "https://assets.3dstreet.app/intersection-props/Ped Beacon.jpg",
+    "category": "intersection-props"
+  },
+  {
+    "id": "picnic-bench",
+    "name": "Picnic Bench",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Picnic Bench.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Picnic Bench.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "lending-library",
+    "name": "Lending Library",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Lending Library.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Lending Library.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "large-parklet-seating",
+    "name": "Large Parklet Seating",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Large Parklet Seating.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Large Parklet Seating.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "curb-traffic-island",
+    "name": "Traffic Island",
+    "src": "https://assets.3dstreet.app/dividers/Traffic Island.glb",
+    "img": "https://assets.3dstreet.app/dividers/Traffic Island.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "curb-island-end-rounded",
+    "name": "Traffic Island Rounded End",
+    "src": "https://assets.3dstreet.app/dividers/Traffic Island Rounded End.glb",
+    "img": "https://assets.3dstreet.app/dividers/Traffic Island Rounded End.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "curb-extension-with-crosswalk",
+    "name": "Bikes Only Curb Extension",
+    "src": "https://assets.3dstreet.app/dividers/Bikes Only Curb Extension.glb",
+    "img": "https://assets.3dstreet.app/dividers/Bikes Only Curb Extension.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "crosswalk-raised",
+    "name": "Raised Crosswalk",
+    "src": "https://assets.3dstreet.app/dividers/Raised Crosswalk.glb",
+    "img": "https://assets.3dstreet.app/dividers/Raised Crosswalk.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "corner-island",
+    "name": "Corner Island",
+    "src": "https://assets.3dstreet.app/dividers/Corner Island.glb",
+    "img": "https://assets.3dstreet.app/dividers/Corner Island.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "bin",
+    "name": "Trash Bin",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Trash Bin.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Trash Bin.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "USPS-mailbox",
+    "name": "USPS Mailbox",
+    "src": "https://assets.3dstreet.app/sidewalk-props/USPS Mailbox.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/USPS Mailbox.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "19th-Street-Bridge",
+    "name": "Bridge",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Bridge.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Bridge.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "Armature",
+    "name": "Self-Driving Waymo Car",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Self-Driving Waymo Car.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Self-Driving Waymo Car.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "two-wheeler-with-person",
+    "name": "Motorbike",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Motorbike.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Motorbike.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "tuk-tuk",
+    "name": "Tuk-Tuk",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Tuk-Tuk.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Tuk-Tuk.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "trash-truck-side-loading",
+    "name": "Trash Truck",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Trash Truck.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Trash Truck.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "mini-bus",
+    "name": "Mini Bus",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Mini Bus.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Mini Bus.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "Armature",
+    "name": "Fire Truck Ladder",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/Fire Truck Ladder.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/Fire Truck Ladder.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "Cube",
+    "name": "Wayfinding Cube",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Wayfinding Cube.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Wayfinding Cube.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "parklet",
+    "name": "Parklet",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Parklet.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Parklet.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "building_03005",
+    "name": "School",
+    "src": "https://assets.3dstreet.app/loud-bicycle/School.glb",
+    "img": "https://assets.3dstreet.app/loud-bicycle/School.jpg",
+    "category": "loud-bicycle"
+  },
+  {
+    "id": "Circle",
+    "name": "Ray Gun",
+    "src": "https://assets.3dstreet.app/loud-bicycle/Ray Gun.glb",
+    "img": "https://assets.3dstreet.app/loud-bicycle/Ray Gun.jpg",
+    "category": "loud-bicycle"
+  },
+  {
+    "id": "sanfrancisco-cablecar-rig",
+    "name": "Cable Car",
+    "src": "https://assets.3dstreet.app/vehicles-transit/Cable Car.glb",
+    "img": "https://assets.3dstreet.app/vehicles-transit/Cable Car.jpg",
+    "category": "vehicles-transit"
+  },
+  {
+    "id": "irish-bar-building",
+    "name": "Irish Bar",
+    "src": "https://assets.3dstreet.app/loud-bicycle/Irish Bar.glb",
+    "img": "https://assets.3dstreet.app/loud-bicycle/Irish Bar.jpg",
+    "category": "loud-bicycle"
+  },
+  {
+    "id": "Armature",
+    "name": "Light Rail",
+    "src": "https://assets.3dstreet.app/vehicles-transit/Light Rail.glb",
+    "img": "https://assets.3dstreet.app/vehicles-transit/Light Rail.jpg",
+    "category": "vehicles-transit"
+  },
+  {
+    "id": "Armature",
+    "name": "New Flyer Bus",
+    "src": "https://assets.3dstreet.app/vehicles-rigged/New Flyer Bus.glb",
+    "img": "https://assets.3dstreet.app/vehicles-rigged/New Flyer Bus.jpg",
+    "category": "vehicles-rigged"
+  },
+  {
+    "id": "bollard",
+    "name": "Bollard",
+    "src": "https://assets.3dstreet.app/dividers/Bollard.glb",
+    "img": "https://assets.3dstreet.app/dividers/Bollard.jpg",
+    "category": "dividers"
+  },
+  {
+    "id": "c02-scrubber",
+    "name": "CO2 Scrubber",
+    "src": "https://assets.3dstreet.app/loud-bicycle/CO2 Scrubber.glb",
+    "img": "https://assets.3dstreet.app/loud-bicycle/CO2 Scrubber.jpg",
+    "category": "loud-bicycle"
+  },
+  {
+    "id": "FenceMesh",
+    "name": "Fence",
+    "src": "https://assets.3dstreet.app/grounds/Fence.glb",
+    "img": "https://assets.3dstreet.app/grounds/Fence.jpg",
+    "category": "grounds"
+  },
+  {
+    "id": "bus-shelter-alt-1",
+    "name": "Bus Shelter",
+    "src": "https://assets.3dstreet.app/sidewalk-props/Bus Shelter.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/Bus Shelter.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "brt-stationglb",
+    "name": "BRT Station",
+    "src": "https://assets.3dstreet.app/sidewalk-props/BRT Station.glb",
+    "img": "https://assets.3dstreet.app/sidewalk-props/BRT Station.jpg",
+    "category": "sidewalk-props"
+  },
+  {
+    "id": "arched-building-02",
+    "name": "Arched Building 2",
+    "src": "https://assets.3dstreet.app/buildings/Arched Building 2.glb",
+    "img": "https://assets.3dstreet.app/buildings/Arched Building 2.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "arched-building-03",
+    "name": "Arched Building 3",
+    "src": "https://assets.3dstreet.app/buildings/Arched Building 3.glb",
+    "img": "https://assets.3dstreet.app/buildings/Arched Building 3.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "arched-building-01",
+    "name": "Arched Building",
+    "src": "https://assets.3dstreet.app/buildings/Arched Building.glb",
+    "img": "https://assets.3dstreet.app/buildings/Arched Building.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "arched-building-04",
+    "name": "Arched Building 4",
+    "src": "https://assets.3dstreet.app/buildings/Arched Building 4.glb",
+    "img": "https://assets.3dstreet.app/buildings/Arched Building 4.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "SM3D_Bld_Mixed_4fl",
+    "name": "Mixed 4fl",
+    "src": "https://assets.3dstreet.app/buildings/Mixed 4fl.glb",
+    "img": "https://assets.3dstreet.app/buildings/Mixed 4fl.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "SM3D_Bld_Mixed_5fl",
+    "name": "Mixed 5fl",
+    "src": "https://assets.3dstreet.app/buildings/Mixed 5fl.glb",
+    "img": "https://assets.3dstreet.app/buildings/Mixed 5fl.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "SM3D_Bld_Mixed_Double_5fl",
+    "name": "Mixed Double 5fl",
+    "src": "https://assets.3dstreet.app/buildings/Mixed Double 5fl.glb",
+    "img": "https://assets.3dstreet.app/buildings/Mixed Double 5fl.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "SM3D_Bld_Mixed_4fl_2",
+    "name": "Mixed 4fl 2",
+    "src": "https://assets.3dstreet.app/buildings/Mixed 4fl 2.glb",
+    "img": "https://assets.3dstreet.app/buildings/Mixed 4fl 2.jpg",
+    "category": "buildings"
+  },
+  {
+    "id": "SM3D_Bld_Mixed_Corner_4fl",
+    "name": "Mixed Corner 4fl",
+    "src": "https://assets.3dstreet.app/buildings/Mixed Corner 4fl.glb",
+    "img": "https://assets.3dstreet.app/buildings/Mixed Corner 4fl.jpg",
+    "category": "buildings"
+  }
+]
